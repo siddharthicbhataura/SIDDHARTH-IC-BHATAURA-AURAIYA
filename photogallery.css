@@ -39,26 +39,15 @@ body {
     left:6%;
     top: 25%;
     transform: translate(-10%, -10%);
-    background-image: url(BOOKTOMANY.jpg);
+    background-image: url(sidgateteacherstudent.jpg);
     background-size: 100% 100%;
     box-shadow: 0.08rem 0.015rem 0.06rem 0.3rem black;
-    animation:slider1 80s infinite linear;
+    animation:slider1 10s infinite linear;
 }
 @keyframes slider1 {
-    0%{background-image: url(BOOKTOMANY.jpg);}
-    7%{background-image: url(PLANTATION.jpg);}
-    14%{background-image: url(RIBBON.jpg);}
-    21%{background-image: url(mainbuilding.jpg);}
-    28%{background-image: url(BAGDISTRIBUTION.jpg);}
-    35%{background-image: url(DIGINATORY.jpg);}
-    42%{background-image: url(vigyanpradarshini.jpg);}
-    49%{background-image: url(RAJYAPAL.jpg);}
-    56%{background-image: url(EXHIBITION.jpg);}
-    63%{background-image: url(PROJECTOR.jpg);}
-    70%{background-image: url(SHIKSHAKSAMMAN.jpg);}
-    77%{background-image: url(SONGCOMPETITION.jpg);}
-    84%{background-image: url(SPORTCOMPETITION.jpg);}
-    93%{background-image: url(TEACHERFELICITATION.jpg);}
+    0%{background-image: url(sidgateteacherstudent.jpg);}
+    50%{background-image: url(sidanotherprojectdisplay.jpg);}
+    100%{background-image: url(sidexamteacher.jpg);}
 }
 .gallery {
     width: 47.5%;
@@ -67,28 +56,16 @@ body {
     right:6%;
     bottom: 10%;
     transform: translate(10%, 10%);
-    background-image: url(assemblyboys.jpg);
+    background-image: url(sidpracticalagain.jpg);
     background-size: 100% 100%;
     box-shadow: 0.08rem 0.015rem 0.06rem 0.3rem black;
-    animation:slider 80s infinite linear;
+    animation:slider 10s infinite linear;
 }
 @keyframes slider {
-    0%{background-image: url(assemblyboys.jpg);}
-    7%{background-image: url(CULTURALFEST.jpg);}
-    14%{background-image: url(RAJYAPAL.jpg);}
-    21%{background-image: url(BOOKDISTRIBUTION.jpg);}
-    28%{background-image: url(CLASSROOMnotgood.jpg);}
-    35%{background-image: url(SARASWATIVANDANA.jpg);}
-    42%{background-image: url(SAMBODHAN.jpg);}
-    49%{background-image: url(PARK.jpg);}
-    56%{background-image: url(DRESS\ DISTRIBUTION.jpg);}
-    63%{background-image: url(GATE.jpg);}
-    70%{background-image: url(DIGNATORY.jpg);}
-    77%{background-image: url(EXHIBITION2.jpg);}
-    85%{background-image: url(kabaddi.jpg);}
-    92%{background-image: url(SPORTSCOMPETITIONtable.jpg);}
+    0%{background-image: url(sidpracticalagain.jpg);}
+    50%{background-image: url(sidexam.jpg);}
+    100%{background-image: url(sidgroupprojectdisplay.jpg);}
 }
-
 a{
         position: relative;
         font-weight: bold;
