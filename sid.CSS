@@ -54,17 +54,17 @@ h2 {
     left: 62%;
     top: 50%;
     transform: translate(-50%, -50%);
-    background-image: url(RAJYAPAL.jpg);
+    background-image: url(sidexamteacher.jpg);
     background-size: 100% 100%;
     border-radius: 20%;
     box-shadow: 0.08rem 0.015rem 0.06rem 0.3rem rgb(19, 92, 82);
     animation:slider 20s infinite linear;
 }
 @keyframes slider {
-    0%{background-image: url(RAJYAPAL.jpg);}
-    25%{background-image: url(mainbuilding.jpg);}
-    50%{background-image: url(BAGDISTRIBUTION.jpg);}
-    85%{background-image: url(vigyanpradarshini.jpg);}
+    0%{background-image: url(sidexamteacher.jpg);}
+    33%{background-image: url(sidexam.jpg);}
+    66%{background-image: url(sidgateteacherstudent.jpg);}
+    100%{background-image: url(sidexam.jpg);}
 }
 
 
